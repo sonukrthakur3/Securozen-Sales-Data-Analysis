@@ -48,17 +48,17 @@ Securozen-Sales-Analysis/
 ### Page 1 — Executive Sales Performance
 Provides a high-level overview of business performance through KPI cards, monthly sales and profit trends, sub-category comparisons, geographical profitability, and customer segment analysis.
 
-![Page 1 - Executive Summary](dashboard/page1.png)
+![Page 1 - Executive Summary](Dashboard/page1.png)
 
 ### Page 2 — Product & Profitability Deep Dive
 Explores product-level performance and profitability. Discount analysis and conditional formatting help identify loss-making sub-categories and areas requiring further investigation.
 
-![Page 2 - Product Deep Dive](dashboard/page2.png)
+![Page 2 - Product Deep Dive](Dashboard/page2.png)
 
 ### Page 3 — Customer & Logistics Analysis
 Examines shipping mode preferences and customer-level performance. An executive matrix with in-cell data bars makes it easier to compare top-performing customers and identify sales concentration.
 
-![Page 3 - Logistics](dashboard/page3.png)
+![Page 3 - Logistics](Dashboard/page3.png)
 
 ## 📊 Key Business Metrics
 The dashboard focuses on the following core performance indicators:
